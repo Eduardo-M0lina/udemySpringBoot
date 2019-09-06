@@ -1,0 +1,8 @@
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('Eduardo', 'Molina', 'eduar@gamil.com','04-12-1990');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('diandry', 'Arias', 'asrr@gamil.com','12-12-2000');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('SDFSDFSD', 'Molina', 'eduar@gamil.com','04-04-2001');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('EduarCVCVXdo', 'MoliSDFSDFna', 'eduar@gamil.com','12-02-1197');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('XXXXX', 'Molina', 'eduaSDFSDFr@gamil.com','04-04-1194');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('Eduardo', 'MoSDFSDFlna', 'eduar@gamil.com','12-04-2001');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('EduaDFSDFSDrdo', 'MoSDFSDFlina', 'eduar@gamil.com','02-10-1999');
+--INSERT INTO BDTEST.cliente (nombre, apellido, email, create_at) VALUES ('Eduardo', 'Molina', 'eduar@gamil.com','12-04-2019');
